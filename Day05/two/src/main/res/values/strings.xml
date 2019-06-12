@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">two</string>
+    <string name="app_namelist">文章列表</string>
+    <string name="app_na">文章标题</string>
+</resources>

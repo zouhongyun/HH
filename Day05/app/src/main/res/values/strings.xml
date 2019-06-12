@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Day05</string>
+    <string name="app_namecz">操作</string>
+    <string name="app_namedele">删除</string>
+    <string name="app_namefinish">完成</string>
+    <string name="reversal">反转</string>
+</resources>
